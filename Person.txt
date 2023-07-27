@@ -3,3 +3,4 @@ Bogaz
 Qollar
 Ayaqlar
 Urek
+Boyrek
